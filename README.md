@@ -35,51 +35,90 @@ Feladat 0152 Szegedi
 Feladat 0153 Ferencz Marcell
 
 -----
-Feladat 0154  
+Feladat 0154  Viktor
 
-Feladat 0155  
+Feladat 0155  Tihonov
 
-Feladat 0156  
+Feladat 0156  Nagy Ádám
 
 ## Dobozok, túlcsordulás
 
-Feladat 0201  
-Feladat 0202  
-Listák
-Feladat 0251 
-Feladat 0252 
-Megjelenítés 
-Feladat 0301  
-Pozicionálás  
-Feladat 0351  
-Feladat 0352 
-Lebegtetés
-Feladat 0401  
-Feladat 0402   
-Feladat 0403  
-Feladat 0404  
-Feladat 0405  
-Feladat 0406  
-Feladat 0407   
-Blokk elemek, vágás és ál-osztályok
-Feladat 0451    
-Átlátszatlanság  
+Feladat 0201  Szilágyi Gábor
+
+Feladat 0202  Taller Lilien
+
+## Listák
+
+Feladat 0251  Szolyka
+
+Feladat 0252 Kilián
+
+## Megjelenítés 
+
+Feladat 0301  Bihari
+
+## Pozicionálás  
+
+Feladat 0351  Hunor
+
+Feladat 0352 Szegedi
+
+##Lebegtetés
+
+Feladat 0401  Ferencz Marcell
+
+Feladat 0402   Viktor
+
+Feladat 0403  Tihonov
+
+Feladat 0404  Nagy Ádám
+
+Feladat 0405  Szilágyi Gábor
+
+Feladat 0406  Taller Lilien
+
+Feladat 0407   Szolyka
+
+## Blokk elemek, vágás és ál-osztályok
+
+Feladat 0451  
+
+## Átlátszatlanság  
+
 Feladat 0501  
-Táblázatok
+
+## Táblázatok
+
 Feladat 0551
-Z-index
+
+## Z-index
+
 Feladat 0601       Viktor
-Szegély kerekítés
+
+## Szegély kerekítés
+
 Feladat 0651
+
 Feladat 0652
+
 Feladat 0653
+
 Feladat 0654
+
 Feladat 0655
+
 Feladat 0656
+
 Feladat 0657
-Speciális
+
+## Speciális
+
 Feladat 1001
+
 Feladat 1002
-Komplex
+
+## Komplex
+
 Feladat 1101
+
 Feladat 1102
