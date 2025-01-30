@@ -1,6 +1,6 @@
 # css
 
-Igazítás és színezés
+## Igazítás és színezés
 
 Feladat 0001    Viktor
 
@@ -8,7 +8,7 @@ Feladat 0002    Viktor
 
 Feladat 0004    Viktor
 
-Háttér beállítása
+## Háttér beállítása
 
 Feladat 0051  Tihonov
 
@@ -18,7 +18,7 @@ Feladat 0053  Szilágyi Gábor
 
 Feladat 0054  Taller Lilien
 
-Szöveg és font stílus
+## Szöveg és font stílus
 
 Feladat 0101  Szolyka
 
@@ -26,7 +26,7 @@ Feladat 0102  Kilián
 
 Feladat 0103 Bihari
 
-Szegélyek
+## Szegélyek
 
 Feladat 0151 Hunor
 
@@ -36,9 +36,13 @@ Feladat 0153 Ferencz Marcell
 
 -----
 Feladat 0154  
+
 Feladat 0155  
+
 Feladat 0156  
-Dobozok, túlcsordulás
+
+## Dobozok, túlcsordulás
+
 Feladat 0201  
 Feladat 0202  
 Listák
