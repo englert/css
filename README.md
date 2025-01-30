@@ -1,23 +1,40 @@
 # css
 
 Igazítás és színezés
+
 Feladat 0001    Viktor
+
 Feladat 0002    Viktor
+
 Feladat 0004    Viktor
+
 Háttér beállítása
+
 Feladat 0051  Tihonov
+
 Feladat 0052  Nagy Ádám
+
 Feladat 0053  Szilágyi Gábor
+
 Feladat 0054  Taller Lilien
+
 Szöveg és font stílus
+
 Feladat 0101  Szolyka
+
 Feladat 0102  Kilián
+
 Feladat 0103 Bihari
+
 Szegélyek
+
 Feladat 0151 Hunor
+
 Feladat 0152 Szegedi
----------------------------------------------
+
 Feladat 0153 Ferencz Marcell
+
+-----
 Feladat 0154  
 Feladat 0155  
 Feladat 0156  
